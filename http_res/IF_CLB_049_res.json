@@ -1,0 +1,94 @@
+{
+	"kdStatus": 1,
+	"ketStatus": 200,
+	"message": [
+		{
+			"bentukBadan": "PTP",
+			"namaWp": "STAG GGWP SWD",
+			"jenisModal": null,
+			"npwp": "915125558068000",
+			"telp": "08123981293",
+			"handphone": null,
+			"faksimili": null,
+			"email": "stagsw1@mailinator.com",
+			"tahunBuku": null,
+			"dataPendirian": [
+				{
+					"noAkta": null,
+					"tglAkta": null,
+					"tmpAkta": null,
+					"namaNotaris": null,
+					"nikNotaris": null,
+					"noPengesahan": "AHU-000023.AH.01.30.Tahun 2021",
+					"tglPengesahan": "2021-10-01 16:50:51",
+					"noPerubahan": "AHU-000009.AH.01.31.Tahun 2021",
+					"tglPerubahan": "2021-10-01 19:01:59",
+					"noPembubaran": null,
+					"tglPembubaran": null,
+					"noIndukKoperasi": null
+				}
+			],
+			"modal": [
+				{
+					"modalDasar": "45000000",
+					"modalDitempatkan": null,
+					"modalDisetor": null,
+					"simpananPokok": null,
+					"simpananWajib": null,
+					"danaHibah": null
+				}
+			],
+			"klu": [
+				{
+					"kodeKlu": "01112",
+					"judulKlu": "Pertanian Gandum",
+					"statusKlu": "1"
+				},
+				{
+					"kodeKlu": "01115",
+					"judulKlu": "Pertanian Kacang Hijau",
+					"statusKlu": "1"
+				}
+			], 
+			"pemegangSaham": null,
+			"pengurus": [
+				null
+			],
+			"pemilikManfaat": [
+				{
+					"namaBo": "S wulan P",
+					"kriteria": [
+						{
+							"description": "Memiliki saham lebih dari 25% (dua puluh lima persen) pada perseroan terbatas sebagaimana tercantum dalam anggaran dasar."
+						},
+						{
+							"description": "Memiliki hak suara lebih dari 25% (dua puluh lima persen) pada perseroan terbatas sebagaimana tercantum dalam anggaran dasar."
+						},
+						{
+							"description": "Menerima keuntungan atau laba lebih dari 25% (dua puluh lima persen) dari keuntungan atau laba yang diperoleh perseroan terbatas per tahun."
+						}
+					],
+					"kebangsaanBo": "WNI",
+					"negaraBo": null,
+					"nikBo": "5000000000023333",
+					"pasporBo": null,
+					"npwpBo": "500000000023333",
+					"relasiBo": "Pemilik Usaha"
+				}
+			],
+			"alamat": [
+				{
+					"jalan": "Warung Pak ajat Gang sawo kp.benteng uhuyy  updated",
+					"rt": "4",
+					"rw": "2",
+					"propinsi": "Jawa Barat",
+					"kabupaten": "Kab. Sukabumi",
+					"kecamatan": "Cicurug",
+					"kelurahan": "Kutajaya",
+					"kodePos": "55653",
+					"kodeWilayah": "32.02.16.2010"
+				}
+			]
+		}
+	]
+}
